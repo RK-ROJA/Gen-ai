@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SYdlJLOhCsRtER2v3VqFJEgWhV89pGMT
 """
 
-pip install streamlit openai
+
 
 import streamlit as st
 from openai import OpenAI
