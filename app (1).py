@@ -10,7 +10,7 @@ Original file is located at
 
 
 import streamlit as st
-from openai import OpenAI
+
 
 client = OpenAI(api_key="YOUR_API_KEY")
 # ==============================
